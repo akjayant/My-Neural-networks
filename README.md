@@ -6,4 +6,4 @@ Perceptron (single hidden layer,single hidden node)
      
 Feedforward neural network (multilayered) still a bit rough and naive version - 
 
-    Designing a multilayered neural network taking no of layers and no of nodes in input using backpropogation on mean squared loss       minimisation using stohastic gradient descent. I have trained it on sin(x) jut for sake of testing for now so as to observe dC/dw (partial dericative of cost function wrt weights which is delta_cw in my code.
+    Designing a multilayered neural network taking no of layers and no of nodes in input using backpropogation on mean squared loss       minimisation using stohastic gradient descent. I have trained it on sin(x) just for sake of testing for now, so as to observe dC/dw (partial dericative of cost function wrt weights which is delta_cw in my code.
