@@ -6,7 +6,13 @@
      
 ### Feedforward neural network (multilayered) *still a bit rough and naive version 
 
-Designing a multilayered neural network taking no of layers and no of nodes in input using backpropogation on mean squared loss       minimisation using stohastic gradient descent. I have trained it on sin(x) just for sake of testing for now, so as to observe dC/dw (partial dericative of cost function wrt weights which is 'delta_cw' in my code).
+Designing a multilayered neural network taking no of layers and no of nodes in input using backpropogation on loss       minimisation using stohastic gradient descent. I have trained it on Energy Efficiency dataset -
+https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+just for sake of testing for now.
+ Activations options in code : relu,sigmoid ,Loss options in code : mean squared error ,cross entropy
+ USED  - sigmoid activation,cross entropy loss
+ Accuracy is pretty bad though!!
+ 
 
 ### My Keras experiments
 
